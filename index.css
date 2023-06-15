@@ -1,0 +1,55 @@
+html{
+    font-size:16px; ;
+}
+
+body{
+    font-family: 'PT Sans', sans-serif;
+    background: dodgerblue;
+}
+
+.card{
+    /* margin: 3.3rem; */
+}
+
+img{
+    width: 20vw;
+    border-radius: 15%;
+    
+
+}
+
+#h-header{
+text-align: center;
+font-size: 2rem;
+font-style: oblique;
+}
+
+h3#p-question{
+    text-align: center;
+vertical-align: middle;;
+    color: #f6f6f6;
+    padding: 10vw;
+}
+.card{
+    /* position: absolute ;
+    overflow: scroll; */
+   
+}
+
+.btn{
+    border: .5rem solid silver;
+    border-bottom: .4rem solid gold;
+    border-radius: 15%;
+    border-style: double;
+    font-size:1.5 ;
+  
+
+
+}
+
+.btn:hover{
+    color: rgb(0, 0, 0);
+    background: lightblue;
+    transition: all 0.8s;
+}
+
