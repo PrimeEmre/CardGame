@@ -6,7 +6,7 @@ let soruSayisi = 1;
 question = {};
 question.id = 1;
 question.header = 'Winter';
-question.text = 'Now is the time to conserve enegery and reduces. A project fails but gain an Abundance.'
+question.text = 'Now is the time to conserve enegery and reduces.<br><br><b> A project fails but gain an Abundance.</b>'
 question.picture = 'images/1.jpg'
 questions.push(question);
 
@@ -15,14 +15,14 @@ question = {};
 question.id = 1;
 question.header = 'Winter';
 question.text = 'Now is the time for hurried labour and final efforts.<br><br><b>A project finishes early, but gain a Scarcity.</b>'
-question.picture = 'images/2.jpg'
+question.picture = 'images/1.jpg'
 questions.push(question);
 
 //soru2 left
 question = {};
 question.id = 2;
 question.header = 'Winter';
-question.text = 'A headstrong community member takes charge of the community`s work efforts. A project fails, and then a different project finishes after.'
+question.text = 'A headstrong community member takes charge of the community`s work efforts.<br><br><b> A project fails, and then a different project finishes after.</b>'
 question.picture = 'images/2.jpg'
 questions.push(question);
 
@@ -30,15 +30,15 @@ questions.push(question);
 question = {};
 question.id = 2;
 question.header = 'Winter';
-question.text = '4 A headstrong community member tires to take contorol of the community. How are they prevented from doing this? Due to the conflict, project dice are not reduced this week. '
-question.picture = 'images/3.jpg'
+question.text = ' A headstrong community member tires to take contorol of the community.<br><br><b> How are they prevented from doing this? Due to the conflict, project dice are not reduced this week.</b> '
+question.picture = 'images/2.jpg'
 questions.push(question);
 
 //soru3 left
 question = {};
 question.id = 3;
 question.header = 'Winter';
-question.text = '5. Someone comes up with an ingenious solution to a big problem, so a project finishes early. What were their ideas?  '
+question.text = ' Someone comes up with an ingenious solution to a big problem, so a project finishes early.<br><br><b> What were their ideas?</b>  '
 question.picture = 'images/3.jpg'
 questions.push(question);
 
@@ -46,8 +46,8 @@ questions.push(question);
 question = {};
 question.id = 3;
 question.header = 'Winter';
-question.text = '6.Someone develops a plan to ensure safety and comfort during the coldest months. Start a project related to this.    '
-question.picture = 'images/4.jpg'
+question.text = 'Someone develops a plan to ensure safety and comfort during the coldest months.<br><br><b> Start a project related to this.</b>    '
+question.picture = 'images/3.jpg'
 questions.push(question);
 
 //soru 4 left
@@ -62,9 +62,18 @@ questions.push(question);
 question = {};
 question.id = 4
 question.header = "Winter"
-question.text = " 8  A great atotcity is revaled Waht is it? Who uncover it?."
+question.text = "  A great atotcity is revaled Waht is it?<br><br><b> Who uncover it?</b>"
+question.picture = "images/4.jpg"
+questions.push(question);
+
+//soru5 left
+question = {};
+question.id = 5
+question.header = "Winter"
+question.text = "  A great atotcity is revaled Waht is it?<br><br><b> Who uncover it?</b>"
 question.picture = "images/5.jpg"
 questions.push(question)
+
 
 
 
